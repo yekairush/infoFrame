@@ -34,7 +34,7 @@
         <shiro.version>1.3.0</shiro.version>
         <jackson.version>2.7.4</jackson.version>
         <commons.codec.version>1.9</commons.codec.version>
-        <fastjson.version>1.2.23</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jackson.mapper.version>1.9.13</jackson.mapper.version>
         <hxyFrame.version>1.0</hxyFrame.version>
         <commons.lang3.version>3.3.2</commons.lang3.version>
